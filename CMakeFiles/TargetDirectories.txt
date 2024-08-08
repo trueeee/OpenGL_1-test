@@ -1,0 +1,8 @@
+C:/DEV/OpenGL_1/CMakeFiles/Experimental.dir
+C:/DEV/OpenGL_1/CMakeFiles/Nightly.dir
+C:/DEV/OpenGL_1/CMakeFiles/Continuous.dir
+C:/DEV/OpenGL_1/CMakeFiles/NightlyMemoryCheck.dir
+C:/DEV/OpenGL_1/CMakeFiles/OpenGL_1.dir
+C:/DEV/OpenGL_1/CMakeFiles/RUN_TESTS.dir
+C:/DEV/OpenGL_1/CMakeFiles/ALL_BUILD.dir
+C:/DEV/OpenGL_1/CMakeFiles/ZERO_CHECK.dir
